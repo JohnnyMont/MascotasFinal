@@ -1,0 +1,5 @@
+As telas tem que ter exatamente 1000 de largura e 700 de altura
+trocar a imagem de cats.png para cats2.png com 1000 de largura e 167 de altura
+Os titulos tem que ser Montserrat Alternates ExtraBold tamanho 36
+Implementar botao "X" para dar um dispose, ao inves de "voltar", abaixo da logo(seguir modelo da Inicial)
+Os botoes de decisão(cadastrar, Editar e Remover) tem que ter as dimensoes de 1000 de largura e 149 de altura
